@@ -3655,7 +3655,7 @@ exportObj.basicCardData = function() {
         ship: "T-70 X-wing",
         skill: 3,
         points: 5,
-        loadout: 13,
+        loadout: 69,
         slots: ["Talent", "Tech", "Astromech", "Modification", "Configuration", "HardpointShip"]
       }, {
         name: "Lieutenant Bastian",
